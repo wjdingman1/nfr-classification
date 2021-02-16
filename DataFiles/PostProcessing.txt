@@ -1,0 +1,1249 @@
+class,sentence
+access control,click add schedule office visit
+access control,click edit next transaction edit its contents
+access control,click edit enter any information may be incomplete
+access control,click find available see list appointment times available for provider for next days
+access control,click on persons name edit their contact information click add new enter new contact into your address book
+access control,click on name new file view it
+access control,click save immunization
+access control,click save update status appointment
+access control,click save finished
+access control,click save
+access control,click add pharmacy button enter contact information for your clinics pharmacy
+access control,click continue button
+access control,clicking save now links selected issue selected encounter
+access control,clicking submit produces report for each encounter in date range shows patient demographics insurance information as well as billing codes amounts
+access control,cms official named in section successor
+access control,conversely inpatient discharged ambulatory teams must be able access patients clinical demographic history
+access control,data recipient shall use appropriate safeguards protect iihi from misuse inappropriate disclosure prevent any use disclosure iihi other than as provided in dua as otherwise required law regulation
+access control,database restricts access stored procedures authorized accounts only
+access control,direct access database tables prohibited
+access control,each row in list includes their weight pedometer reading numbers levels recording timestamp reported data patient uap name personal representative name
+access control,each row in message inbox outbox includes message subject name either sender only for case inbox recipient only for case outbox timestamp
+access control,each associated with only one filter being saved across login sessions applies only saved filter
+access control,enter appropriate information click save form return encounter summary page
+access control,enter payment amount as before click save
+access control,enter payment amount next remaining balance check needs secondary billing
+access control,enter your note into text field click save
+access control,entering partial value into one more fields clicking search button presents with list all insurance companies matching those parameters
+access control,establish implement as needed procedures for obtaining necessary electronic protected health information during emergency
+access control,next click on documents see list patient documents have been uploaded
+access control,fill in information click save button add new number
+access control,for each entry in patients basic health information history hcp presented with automaticallycalculated value bmi in format digits xxxx calculated based on formula weight in pounds height in inches height in inches
+access control,for example selecting detailed from established patient dropdown adds associated cpt code list
+access control,hcps return office visit modify delete fields office visit
+access control,report daily height in format digits xxxx with units feet daily weight in format digits x with units lbs possibly possibly pedometer readings in format up digits integer with units footsteps
+access control,report blood pressure systolic diastolic possibly possibly glucose levelsfor patient
+access control,select patient then enter data
+access control,presented with list patients for which allowed report measurements
+access control,presented with list patients whose at least one physiologic data type specified be under monitoring for which allowed report measurements
+access control,presented with list patients whose at least one physiologic data type specified be under monitoring for allowed report measurements
+access control,presented with list patients whose height weight pedometer data type specified be under monitoring for which allowed report measurements
+access control,then presented with actual operational profile operations itrust medical records where use percentage total transactions for each particular transaction logging type brokendown each types patient lhcp uhcp admin tester
+access control,here also attach note document associate with particular issue move different category patient
+access control,here edit users password facility information access control as well as their authorization status
+access control,appointments shall be displayed on calendar
+access control,if health care clearing house part larger organization clearing house must implement policies procedures protect electronic protected health information clearing house from unauthorized access larger organization
+access control,if patient has several outpatient visits admitted as inpatient care teams must be able access patients clinical history
+access control,if patient personal health representative has taken office visit satisfaction survey for office visit yet patient may choose take survey for office visit survey has already been taken patient personal health representative will take survey view their previously submitted survey uc
+access control,if primary provider has been entered for patient they will be selected automatically
+access control,if does click continue button
+access control,if desired insurance company yet entered also add here completing all fields clicking save as new
+access control,if lab procedure status marked as completed patient see results hcpprovided comments
+access control,if lhcp one patients dlhcp uap associated with one their dlhcp message sent patient their personal representative
+access control,if patient also insured party then selecting self from dropdown list will automatically populate subscriber section with relevant data for you
+access control,if patient already in system select new search from menu begin entering their information
+access control,if requested appointment time does conflict with existing appointments patient presented with list three next nonoverlapping available appointment times within days requested date
+access control,if adding physician your address book be sure include their upin other id numbers for billing referrals
+access control,if have patient on phone now would be good time confirm their contact insurance information up date
+access control,implement electronic mechanisms corroborate electronic protected health information has been altered destroyed in unauthorized manner
+access control,implement policies procedures for authorizing access electronic protected health information consistent with applicable requirements subpart e part
+access control,implement policies procedures for granting access electronic protected health information for example through access workstation transaction program process other mechanism
+access control,implement policies procedures based upon entitys access authorization policies establish document review modify users right access workstation transaction program process
+access control,implement policies procedures ensure all members its workforce have appropriate access electronic protected health information as provided under paragraph of section prevent those workforce members do have access under paragraph of section from obtaining access electronic protected health information
+access control,implement policies procedures limit physical access its electronic information systems facility facilities in which they housed while ensuring properly authorized access allowed
+access control,implement policies procedures protect electronic protected health information from improper alteration destruction
+access control,implement procedures for terminating access electronic protected health information employment workforce member ends as required determinations made as specified in paragraph of section
+access control,implement procedures for authorization possibly possibly supervision workforce members work with electronic protected health information in locations where might be accessed
+access control,implement procedures control validate persons access facilities based on their role function including visitor control control access software programs for testing revision
+access control,implement procedures determine access workforce member electronic protected health information appropriate
+access control,implement procedures regularly review records information system activity such as audit logs access reports security incident tracking reports
+access control,implement security measures ensure electronically transmitted electronic protected health information improperly modified without detection until disposed of
+access control,implement technical policies procedures for electronic information systems maintain electronic protected health information allow access only those persons software programs have been granted access rights as specified in 
+access control,implement technical security measures guard against unauthorized access electronic protected health information being transmitted over electronic communications network
+access control,add new person dialog box select type enter their name address
+access control,calendar date entry with laboratory procedure ie entry its last status update date shall display label as loinc code for laboratory procedure
+access control,calendar date entry with prescription date ie date office visit medication was prescribed on shall display label for medications prescribed ie ndc see data format in prescription
+access control,calendar date entry with appointment shall display label as appointment type name for appointment
+access control,calendar date entry with office visit shall display label as diagnoses ie icdcm codes for office visit
+access control,list in transit lab procedures lab technician update status received sample has been received in lab
+access control,search add patient page enter patients name birth date
+access control,included search feature where search for select from thousands billing codes in database
+access control,lhcps patients representatives may reply messages
+access control,lhcps edit delete future appointments
+access control,logging in as provider presents with calendar page showing only providers schedule default
+access control,loinc data from file added listing allowable physical services including laboratory procedures hcp use
+access control,look for appropriate billing code entering search term in box left search button
+access control,make sure enter correct duration for appointment click save
+access control,mousing over patients name displays toottip with information about patient such as date birth
+access control,next select history at top patient summary page brings up page containing information about patients medical history
+access control,note administrator allowed through system interface delete existing entry modify hospital id number in existing entry
+access control,note administrator allowed through system interface delete existing entry modify reason id number in existing entry
+access control,now clinic all its practitioners set up begin scheduling appointments for your patients
+access control,now will see block available time slots for providers schedule
+access control,on associated office visit page patient see current status lab procedure hcp name timestamp
+access control,on lhcp homepage lhcp views notification center with list upcoming appointments for current datenumber physiologic data monitoring reports patients for current datenumber weight pedometer data monitoring reports patients for current datenumber unread messages from message inbox number new referrals uc number pending lab procedures uc number pending appointment requests uc
+access control,once payment has been billed received from secondary insurance be entered in same way
+access control,once payment has been received be entered into invoice in same manner as insurance payments
+access control,once date range selected lhcp see patient name patient phone number personal representative name phone number applicable blood pressure glucose levels height weight pedometer readings as well as reported data patient uap name personal representative name for date range
+access control,once desired file has been selected click upload save file in openemr
+access control,once new issues have been added successfully should see updated list all issues have been entered for patient
+access control,once have entered correct information click save save any changes add new company list
+access control,once your users information has been updated successfully click save return userorgroups administration page
+access control,once youve entered correct information click save add your new pharmacy
+access control,only applicable input entries those whose corresponding data types patient specified be under monitoring displayed patient
+access control,only applicable input entries those whose corresponding data types patient specified be under monitoring displayed uap
+access control,openemrs calendar system includes status indicator allowing doctors staff see at glance what going on with all appointments corresponding encounters for day
+access control,providers see status any given appointment indicated symbol shown between appointment time patients name
+access control,realtor shall be able generate cma report based on property criteria
+access control,rights privileges assigned based on authorization roles
+access control,role rights privileges identified maintained in access control list
+access control,roles mapped data interfaces
+access control,select history at top page view summary patients medical history lifestyle information
+access control,select appropriate encounter from list on right highlight it
+access control,select patients insurance company from dropdown list search for clicking search add
+access control,selecting add new presents form for adding providers numbers for another insurance company
+access control,selecting insurance companies from links at top page brings up list companies have been added your clinic
+access control,similar administrator software tester added directly entering software tester into database administrator has access database
+access control,allows authorization administrators manage restrictions privileges associated with users groups processes including
+access control,allows authorized sitespecific users manage sitespecific groups accounts up including their level authority
+access control,allows restricting rights privileges access processes minimum required for authorized tasks
+access control,allows restriction rights privileges access at group level
+access control,allows revocation access privileges without requiring deletion user
+access control,provides listing privileged account holders within system hosting environment
+access control,provides administrative ability block users access during predefined offhours
+access control,provides ability define roles groups associate these with accounts
+access control,provides ability restrict access based on users accounts privileges
+access control,provides ability specify roles privileges based on login locations
+access control,requires password reentry before allowed perform functions predefined as high security
+access control,resources mapped system roles allowed operations for each role
+access control,restricts transactions involving financial sensitive data authorized sessions originating on county intranet wan only
+access control,admin must specify specialty for new lhcp general physician heart surgeon obgyn pediatrician surgeon for new lt blood tissue general
+access control,administer presented with two lists ndc codes names
+access control,administrator chooses drug from each list record interaction between two drugs
+access control,administrator chooses maintain overriding reasons hcp select from
+access control,administrator may choose upload file containing loinc code information
+access control,administrator recordsor deletesa drug interaction between two prescription drugs
+access control,administrator selects file containing loinc information chooses upload it
+access control,administrator will maintain listing allowable immunizations hcp use
+access control,administrator will maintain listing allowable physical services including laboratory procedures hcp use
+access control,administrator will storehospital id number for hospitalandup alphanumeric characters giving name hospital
+access control,administrator will store cpt code cpt code set accurately describes medical surgical diagnostic services designed communicate uniform information about medical services procedures among physicians coders patients accreditation organizations payers for administrative financial analytical purposes
+access control,administrator will store icdcm code international statistical classification diseases related health problems most commonly known abbreviation icd provides codes classify diseases wide variety signs symptoms abnormal findings complaints social circumstances external causes injury disease
+access control,administrator will store national drug code national drug code ndc universal product identifier used in united states for drugs intended for human use
+access control,administrator will store information loinc code logical observation identifiers names codes loinc database universal standard for identifying medical laboratory observations
+access control,answers survey stored
+access control,appointments encounters report reports visits apptenc gives useful crossreference appointments with their corresponding encounters
+access control,appointments report reports visits appointments gives list appointments for given provider for all providers in specified date range
+access control,bottom window also shows any notes left for provider about their patients
+access control,counts shown include number cases for exact zip code provided number cases for region region defined zip code match first three numbers in provided zip code eg zip code provided all data with zip code xx analyzed where each x any digit from
+access control,covered entity must extent possible give individual access any other protected health information requested after excluding protected health information as which covered entity has ground deny access
+access control,data in database analyzed according influenza epidemic heuristic determine epidemic occurring in region defined zip code match first three numbers in provided zip code eg zip code provided all data with zip code xx analyzed where each x any digit from
+access control,data in database analyzed according malaria epidemic heuristic determine epidemic occurring in region defined zip code match first three numbers in provided zip code eg zip code provided all data with zip code xx analyzed where each x any digit from
+access control,data in database analyzed according risk factors for disease determine patient exhibits one more risk factors
+access control,date entry including conflicting appointments highlighted in bold conflicting appointment one has overlap in its appointment duration period with at least another appointment same user
+access control,disputes system must prevent users from accessing any dispute cases do belong their cardholder base
+access control,disputes system must provide different levels access with regard disputes case initiation followup actions
+access control,dropdown list above will then be populated with any billing codes match your search parameters
+access control,drug desired be prescribed checked against patients drug allergies
+access control,drug desired be prescribed checked for interactions between other drugs currently taken patient
+access control,eob invoice page contains detailed list payments made on invoice so far
+access control,hcp add prescription list medications uc
+access control,hcp choose add remove another registered as personal health representative patient
+access control,hcp choose graph height weight patient
+access control,hcp choose remove lab procedure as long as status either in transit received
+access control,hcp graph height weight patient over last calendar years
+access control,hcp indicate patient has passed away providing appropriate diagnosis code
+access control,hcp select medication from pull down list add list medications patient allergic to
+access control,hcp view patient name lab procedure code current lab procedure status timestamp lab technician name
+access control,hcp chooses potential prescriptionrenewals presented with list patientsthat satisfy all three conditionspatients for hcp dlhcpspecialdiagnosishistory patients patients whose prescriptions will expire within days including th day from current date
+access control,hcp chooses specific referral from list view complete details about referral patient name receiving hcp name specialty time generated priority office visit date notes
+access control,hcp documents office visit date hospital location office visit any default should be hcps home location notes about office visit
+access control,hcp enters midor name patient confirms their selection
+access control,hcp enters following information under section for patient specific instructions descriptive name for instructions required
+access control,hcp has selected medication prescribed from pull down list
+access control,hcp notified any current future prescriptions which patient has drug allergy
+access control,hcp notified possible interactions
+access control,hcp presented with achart giving chosen measurements either height weight patient spanning last calendar years data averaged quarters januarymarch apriljune julyseptember octoberdecember
+access control,hcp presented with confirmation containing name patient determines patient they intend deactivate
+access control,hcp may also add patient referral uc
+access control,hcp may send referral cancel referralor edit referral
+access control,hcp may sort list referrals patient name receiving hcp name time generated possibly possibly priority
+access control,hcp provides dosage in milligrams start end date for prescription any special instructions
+access control,hcp saves new lab procedure cancels lab procedure creation
+access control,hcp selects different lab technician from list available lab technicians displayed with lab technician specialty number pending lab procedures in priority queue grouped priority
+access control,hcp selects patient typing in mid patient
+access control,hcp selects procedure code priority from most important as important lab technician listed with specialty number pending lab procedures in priority queue grouped priority
+access control,hcp uploads commaseperated value file containing one patient per row
+access control,hcps medical identification number should also be maintained
+access control,health care personnel may enter edit personal health information including editing historical values from data format immunizations office visit information date diagnoses medication name attending physician but notes laboratory procedures family history mids patients mother father body mass index bmiand drug allergies
+access control,indigent patients report lists all encounters for patients were seen without insurance
+access control,input data timestamp fact status was reported patient representative their mid saved
+access control,input data timestamp fact status selfreported saved
+access control,input data timestamp fact status was reported case manager their mid saved
+access control,input data timestamp fact status was reported patient representative mid saved
+access control,insurance distribution report listed under reportsinsurance shows how many patients seen over given time period use each kind insurance
+access control,lab technician enters lab procedure numerical result confidence interval for lab procedure with status testing
+access control,lab technician sees list all lab procedures assigned him her have status received followed list lab procedures remain in transit
+access control,lhcp select patient obtain additional information about patient
+access control,lhcp view comprehensive patient report for specified patient including information below
+access control,lhcp chooses examine patient for which preconditions do apply eg adult shouldnt be tested for child diabetes lhcp prompted no analysis occur
+access control,lhcp chooses schedule appointment with patient assumed lhcp patient have already worked out details appointment in person via telephone outside system
+access control,lhcp chooses view report all patients single either gender in specified age rangewith none one more diagnoses
+access control,lhcp chooses view all patients with which has ever had office visit with
+access control,lhcp clicks appointment view more details
+access control,lhcp enters patient midselects type appointment from pulldown menu existing appointment types enter appointment date start time only date time equal after current date time allowed interface shall provide both option typing in specific date in date format option selecting date from calendar for current month enter comment optional up characters such as reason for appointment
+access control,lhcp enters text response message up characters wishes send then clicks send button
+access control,lhcp able view comprehensive group report
+access control,lhcp able view comprehensive patient reportfrom list requests
+access control,lhcp notified new edited appointment time conflicts with another existing appointment
+access control,lhcp presented with list other appointments conflict with new one
+access control,lhcp presented with listing all patients view physiologic data reported during current date
+access control,lhcp presented with listing all patients view weight pedometer data reported during current date
+access control,lhcp presented with listing all patients whose at least one physiologic data type specified be under monitoring with their blood pressure glucose levels recording timestamp reported data patient uap name personal representative name
+access control,lhcp presented with option approve reject each pending appointment request
+access control,lhcp provided bar chart diagnosis counts during specified time period as well as yes no answer on whether epidemic occurring during any consecutive two weeks during time period
+access control,lhcp provided with bar chart diagnosis counts during specified time period as well as yes no answer on whether epidemic occurring during any consecutive two weeks during time period
+access control,lhcp then provided counts for specified time period as well as bar chart
+access control,lhcp unable edit remove any past appointments
+access control,lhcp opens message which wishes replyand then clicks reply link above message text
+access control,lhcp requests comprehensive report for all patients with specified gender age diagnosis
+access control,lhcp types subject up characters text message up characters clicks send button
+access control,lhcp views list requests has made for reports with status pertinent information about requests
+access control,lhcp views message inbox
+access control,lhcps name specialty address date office visit whether lhcp dlhcp for patient indicated
+access control,medication checked against patients current future prescriptions
+access control,message will display risk factors patients exhibit
+access control,notification center also displays list patient patient representee upcoming appointments information designated hcpand number unread messages from message inboxnumber new referrals uc number unviewed completed lab procedures uc
+access control,page also includes links patients medical history documents etc at top screen as well as list issues associated with patient any appointments they may have scheduled in column along righthand side
+access control,patient receiving hcp receive message uc indicating referral was canceled
+access control,patient also add lhcp their provider list searching for name possibly possibly specialty lhcpand then selecting add hcp their list providers
+access control,patient select view contact information selected lhcp shown in expired prescription list
+access control,patient chooses specific referral from list view complete details about referral sending hcp name specialty receiving hcp name specialty time generated priority office visit date notes
+access control,patient chooses my diagnoses presented with listing all their own diagnoses sorted diagnosis date more recent first
+access control,patient chooses request appointment with lhcp
+access control,patient chooses view all lhcps patient has ever had office visit with those had designated
+access control,patient presented with list physical services populated loinc codes uc currently stored in itrust
+access control,patient provided with following for each physician type practices in zip code based upon address zipcode provided in uc match first three digits provided zip code
+access control,patient personal health representative see abbreviated health history their siblings parents both sets grandparents for which mids available in itrust
+access control,patient personal health representative see patient personal health information including historical values immunizations office visit information date diagnoses medication name attending physician but notes laboratory procedures fortheir own records records for personal representative
+access control,patient representative chooses one these dlhcp types subject up characters text message up characters clicks send button
+access control,patient representative enters text response message up characters wishes send then clicks send button
+access control,patient representative presented with pull down menu dlhcp
+access control,patient representative opens message which wishes replyand then clicks reply link above message text
+access control,patient requests closest hospitals so only nearby hospitals presented
+access control,patient selects lhcp from provider list
+access control,patient selects one these appointments request saved
+access control,patients choose toggle between designating undesignating any lhcp as being dlhcp for themselves
+access control,practice administration page initially presents with list your clinics pharmacies
+access control,presented patient information shall include each patients name home phone number so reminder calls be made
+access control,allow save property search results
+access control,public health agent select see detail specific report
+access control,public health agent may also choose remove adverse event report such as based upon communication with reporter because report appears be bogus
+access control,realtor shall be able retrieve map showing property locations for specified area
+access control,receiving hcp presented with list referrals sorted priority from most important least important
+access control,receiving hcp then selects referral view details presented with name specialty sending hcp patients name referral notes referral priority office visit date with link office visit time referral was created
+access control,righthand side patient summary shows list all current future appointments for patient
+access control,role determines their viewing editing capabilities rolebased access control
+access control,row for each conflicting appointment highlighted in bold conflicting appointment one has overlap in its appointment duration period with at least another appointment same user
+access control,same process used create repeating out office event
+access control,sending hcp may edit priority referral possibly possibly referral notes
+access control,sending hcp then chooses save edits cancel edits reenter data
+access control,status laboratory procedure has been updated uc s
+access control,allows authorized users merge matching records
+access control,has capability accommodate multiple levels rolebased access restrict access appropriate role
+access control,allow users overriding all parts system provided guideline protocol prompt indicate reason for override
+access control,applies security controls progress notes ensure date cannot be deleted altered except within current session authorized user
+access control,lock down orders restricted specific groups physicians services alerts defined user
+access control,accommodate provider researcher account types
+access control,specify level authorization make decisions on behalf patient designate primary secondary caregivers
+access control,must be able associate permissions with using one more following access controls userbased access rights assigned each rolebased users grouped access rights assigned these groups contextbased rolebased with additional access rights assigned restricted based on context transaction such as timeofday workstation location emergencymode etc support removal users privileges without deleting from system
+access control,restrict system administrator from changing log activity
+access control,allow authorized users update directory
+access control,be able call seller buyer schedule appointment
+access control,enable administrator add new entry for hospital modify hospital name in existing entry
+access control,enable administrator add new entry for reasonor modify reason name in existing entry
+access control,limit functionality based on following access rights
+access control,specify roles control access role to
+access control,suspend access based on preset date based on hospital policy requiring renewal access approval on variable basis for noncounty employees
+access control,suspend access based on tabledriven parameter ie employment status
+access control,suspend useraccess after organization defined inactivity period ie days
+access control,include documentation minimal privileges necessary for each service protocol necessary provide ehr functionality possibly possibly serviceability
+access control,notify realtor seller buyer responds appointment request
+access control,prevent modifications audit records
+access control,prohibit all users read access audit records except those users have been granted explicit readaccess
+access control,protect stored audit records from unauthorized deletion
+access control,provide efficient flexible way control administer multiple levels access
+access control,provide authorized administrators with capability read all audit information from audit records in one following two ways provide audit records in manner suitable for interpret information
+access control,for clinical other authorized view full content finalized note
+access control,for authorized administrators assign restrictions privileges users groups
+access control,identify certain information as confidential only make accessible appropriately authorized users
+access control,prevent specified from accessing designated patients chart
+access control,store reason id number for reasonandup alphanumeric characters giving name storereason id number for reasonandup alphanumeric characters giving name reason
+access control,update create new property listings in mls
+access control,supports bed board application transfer discharge patients as well as update status bed
+access control,lhcp selects patient from list requested reports
+access control,patient personal health representative choose view list their own prescriptions prescriptions for person health representative choosing one patient from list these patients
+access control,also elect see detailed breakdown cash receipts itemizing each procedure for which charge was made
+access control,choose influenza diagnosis and type in desired zip codeand week which may be selected start end date start date only calendar control dropdown any other suitable means within last year
+access control,choose malaria diagnosis and type in desired zip codeand week which may be selected start end date start date only calendar control dropdown any other suitable means within last year
+access control,choose any diagnosis codeand type in desired patient zip codeand start end date
+access control,choose examine recent trends in diagnoses
+access control,select laboratory procedure from calendar read laboratory procedures details
+access control,select appointment from calendar read appointments details
+access control,select office visit from calendar read visits details
+access control,chooses open message inbox outbox
+access control,chooses open upcoming appointment list
+access control,has successfully changed password uc s
+access control,presented with two windows calendar below messages page
+access control,selects message from message inbox outbox read clicking read link beside row for message then message subject name sender name recipient timestamp message text shall be displayed in new page
+access control,selects prescription from calendar read its details clicking read details link beside below medication displayed for prescription then details for prescription shall be displayed in new page including medications prescribed ie ndc see data format date prescribed start date end date for each prescription name doctor prescribed medication
+access control,then persons electronic records accessible via itrust medical records system
+access control,there ten roles in itrust medical records system
+access control,they see diagnoses related following high blood pressure systolic blood pressure over mmhg possibly possibly diastolic blood pressure over mmhg high cholesterol hdl good cholesterol levels under mg dl milligrams per deciliter possibly possibly triglyceride level over mg dldiabetes cancer heart disease smoking cause death family member deceased
+access control,this also selects newly added insurance company for patient
+access control,this brings up list any contacts matching your search parameters
+access control,this brings patients summary page as well as past encounters documents page which lists any previous encounters files were uploaded for patient
+access control,this page contains list your clinics users
+access control,this produces report including all specified patient information
+access control,this will pop up lightbox with text field for entering note as well as dropdown lists for selecting type note person note addressed
+access control,this will present with list all contacts currently contained in your address book
+access control,through personal health records page lhcp chooses chronic disease patient
+access control,add more categories click on desired parent folders name fill in name new document type click add category
+access control,add one these clearing houses click on x partners then click add new partner button
+access control,change status given appointment doubleclick on appointment block
+access control,create new facility click add enter relevant data as did for other clinic
+access control,do simply click on name clinic in case your clinic name here edit its details
+access control,locate patient in system enter all part their name into search field in bottom left corner screen below navigation list click name
+access control,see new file click on plus sign next appropriate document category which displays list all files in category
+access control,view another providers schedule select desired from list left calendar
+access control,upon entering comment lab procedure status updated completed
+access control,upon notice allergies possibly possibly interactions hcp must either choose proceed with prescriptionor cancel prescription remain on office visit page
+access control,upon sending referral patient sending hcp receiving hcp receive message summarizing newly created referral information sending hcp name specialty receiving hcp name specialty patient name referral notes referral creation timestamp additionally sending receiving hcp messages include referral priority
+access control,user access should be limited permissions granted their role each level in pcg hierarchy will be assigned role users will be assigned these roles
+access control,patient active within system has option generating report for specific patient
+access control,access chart restricted provide means for appropriately authorized users break glass for emergency situations
+access control,lhcp adds new appointmentor edits date time existing appointment lhcp notified any existing appointments occur during same time
+access control,lhcp views list upcoming appointments they presented with option edit remove appointment
+access control,hcp selects other reason hcp shall enter freestyle text provide details for other reasons
+access control,lhcp approves rejects appointment request message sent patient indicating requestss status
+access control,viewing calendar selects appointment from list read comment clicking read comments link beside row for appointment then comment for appointment shall be displayed in new page
+access control,finished click create new patient
+access control,finished click save update calendar
+access control,finished entering your clinics information click save button update your clinic return facility administration page
+access control,finished click save
+access control,add new insurance company clicking add company
+access control,also add lunch break in your practitioners schedules
+access control,search for particular contact in address book entering their name possibly possibly specialty at top page clicking search
+access control,see symbol next appointment time has changed indicate its new status
+access control,should now be presented with patient summary page which contains summary patients identifying information including employment insurance provider information in sections may be expanded collapsed at will clicking link right desired section
+access control,youll see soap form has been added list forms for encounter
+access control,satisfied with your selections click generate report
+database design,provide documentation templates support anticoagulation coumadin management
+database design,provide documentation templates support psychiatry orthopedics oncology preoperative assessment history physical physical exam operative note labor delivery cardiac resuscitation dental note ophthalmology note family planning urology record sickle cell record neurology note
+database design,provide order status updates during processing order
+database design,provide patient acuity classification score other scoring tools eg pain scores
+database design,provide following reports
+database design,provide tool facilitate reconciliation patients medications past present across continuum care
+database design,provide visual alerts in form popups color codes etc at point data entry displaying information on screen
+database design,queue notification consultation needed consultant notify consultant completion including consultation note
+database design,record date time known vaccine reaction allergic occurrence
+database design,register large number patients arrive at er quickly as result disaster involving casualties eg train accident earthquake etc
+database design,require justification for overriding changing canceling order prior be allowed continue
+database design,require medium high severity alerts due medication counter indications be approved pharmacist
+database design,require all orders be digitally signed date time stamped at completion each order
+database design,reschedule suspend discontinue iv orders
+database design,reverse modify resubmit prescription refill claims online
+database design,review inpatient medication profile for medication reconciliation
+database design,review patient problems medications medication reconciliation allergies adrs in ehr which provides ability manage each these list types
+database design,review edit information about proposed set single multidisciplinary care plan options based upon expected outcomes
+database design,route reports designated supervisors medical records
+database design,select diagnosis medications procedures from predefined lists
+database design,separate active from inactive problems
+database design,support acuity levels such as resuscitation emergent urgent less urgent nonurgent
+database design,support all aspects preoperative care integrated with electronic patient chart
+database design,support all refills be processed at central location
+database design,support case logging including
+database design,support computer assisted coding
+database design,support counter signature order written discontinued medical student unauthorized consultant for which activation held pending counter signature
+database design,support decision support rules for pharmacy orders including
+database design,support default schedules utilizing more than one slot type used predefine use time for resource
+database design,support empi reporting for following
+database design,support folder film management tracking simplify tracking films as they being checked in out radiology service
+database design,support interfaces pharmacy automation through retail pharmacy solution
+database design,support mammography management as integrated product option provides ability track manage mammography procedures ensure patient follow up provide statistical outcome reporting
+database design,support manage work queue for routing records for review etc
+database design,support predefined defaults for order details
+database design,support provider checkin checkout through role assignment such as team assignment patient reassignment functionality
+database design,support provider roles such as
+database design,support realtime retrospective trending analysis
+database design,support reports such as
+database design,support resident attending signoff relationships attestation
+database design,support role specific applications for radiologists other interpreting physicians access exam report other clinical information create reports using templates electronically sign reports within radiology
+database design,support standard iv label standard medication label standard self med pass med label standard oral syringe label standard outpatient label
+database design,support inclusion kardextype information
+database design,support ivr process through retail pharmacy solution
+database design,support merging unmerging identified duplicate medical records
+database design,update patient problems medications medication reconciliation allergies adrs in ehr which provides ability manage each these listtypes
+database design,use weightbased bsa based dose entered ad hoc subsequently be able resolve such entered doses finite doses
+database design,utilize action comments booking notes scheduling comments warning overrides resource comments encounter comments person comments
+database design,view assigned patients utilization trends on call schedules on dashboard
+database design,view lab results during pharmacy order process flow
+database design,view on demand patients current active medications
+database design,view pacs images with rad report
+database design,view patient charts including result flowsheets clinical notes patient information demographics problem lists pediatric growth charts visit lists
+database design,view patient immunization list
+database design,view prenatal record
+database design,view complete final record
+database design,withhold encounter from being closed without certain data fields completed
+database design,has capacity enterprise clinical viewer for viewing clinical results eg pediatric growth charts visit lists others
+database design,has functionality addresses task lists
+database design,has functionality address shift assignment product will need include functionality automate assignment patients group care givers individual care giver
+database design,has functionality facilitate need automate intake output flow sheet calculations along with fluid balance in graphic view
+database design,integrates use registration conversations conversation flexing logic for radiology integration including capability schedule radiology patient appointments surgical management integration including capability assign surgical case numbers evaluate historical recent procedure durations apply preference cards scheduling process perform dynamic block scheduling
+database design,allow authorized users update directory
+database design,associate store link key identifier information eg system id medical record number with each patient record
+database design,be capable recording comments patient patients representative regarding accuracy veracity information in patient record henceforth patient annotations
+database design,create single patient record for each patient
+database design,provide view active orders for individual patient
+database design,provide view orders like comparable type eg all radiology all lab orders
+database design,provide access patient specific test procedure instructions be modified physician health organization these instructions be given patient
+database design,provide access patient specific test procedure instructions be modified physician health organization these instructions be given filler order
+database design,provide access standard care plan protocol guideline documents requested at time clinical encounter
+database design,provide electronic communication between prescribers pharmacies other intended recipients medication order
+database design,provide filtered displays encounters based on encounter characteristics including date service encounter provider associated diagnosis
+database design,provide field which will identify patients as being exempt from reporting functions
+database design,provide means document patients dispute with information currently in their chart
+database design,provide ability create maintain report distribution mechanism with predefined reports eg monthly reports specific role organization location via portal web
+database design,provide access clinical images
+database design,provide capability schedule reports run automatically
+database design,provide drugdiagnosis interaction alerts at time medication prescribing ordering
+database design,provide endusers ability search for medications generic brand name
+database design,for clinical other authorized view full content finalized note
+database design,for attach free text comment result be seen another might subsequently view result
+database design,for explicitly capture maintain as discrete data allergy list was reviewed
+database design,accept updates drug interaction databases
+database design,accept store in patients record display clinical results received through interface with external source
+database design,access review medication information such as patient education material drug monograph
+database design,access demographic information such as name date birth gender needed for patient care functions
+database design,access reference information for prescribing ordering
+database design,add reminders for necessary follow up tests based on medication prescribed
+database design,addend possibly correct notes have been finalized
+database design,alert at time new medication prescribed ordered drug interaction allergy formulary checking will be performed against uncoded medication free text medication
+database design,alert drug interaction information outdated
+database design,allow configure prescriptions incorporate fixed text according users specifications
+database design,associate individual encounters with diagnoses
+database design,associate one more images with non numerical result
+database design,associate orders medications with one more codified problems diagnoses
+database design,associate orders medications notes with one more problems diagnoses
+database design,automatically generate reminder letters for patients due overdue for disease management preventive wellness services
+database design,capture display formulary information from pharmacy pbm pharmacy benefits managerby applying eligibility response
+database design,capture display temperature weight height in both metric english units be capable indicating vital sign measurement falls outside preset normal range as set authorized users
+database design,capture maintain at least one reason for overriding any drug drug drug allergy intolerance interaction warning triggered at time medication prescribing ordering
+database design,capture maintain as discrete data elements all current medications including overthecounter complementary medications such as vitamins herbs supplements
+database design,capture maintain as discrete data elements identity all providers associated with specific patient encounter
+database design,capture maintain as discrete data elements principal provider responsible for care individual patient
+database design,capture maintain as discrete data diagnosis problem code description associated with order any type including prescriptions medications ordered for administration
+database design,capture maintain as discrete data identity added modified inactivated removed items from allergy adverse reaction list including attributes changed items
+database design,capture maintain as discrete data reason for variation from rule based clinical messages for example alerts reminders
+database design,capture store external documents
+database design,capture appropriate order entry detail including associated diagnosis
+database design,capture common content for prescription details including strength sign quantity refills be selected ordering clinician
+database design,capture history collected from outside sources
+database design,capture immunization administration details as discrete data including immunization type dose date time administration route site lot number expiration date manufacturer id
+database design,capture medication administration details as discrete data including medication name dose date time administration route site lot number expiration date manufacturer id
+database design,capture medications entered authorized users other than prescriber
+database design,capture other clinical data elements as discrete data
+database design,capture patient history as both presence absence conditions ie specification absence personal family history specific diagnosis procedure health risk behavior
+database design,capture patient vital signs including blood pressure heart rate respiratory rate height weight as discrete data
+database design,capture scanned paper consent documents covered in dc
+database design,capture identity ordering provider for all test orders
+database design,capture identity prescribing provider for all medication orders
+database design,capture in discrete field allergy adverse reaction specific immunization
+database design,capture maintain display free text comments associated with problem or diagnosis
+database design,capture maintain display as discrete data elements all problems diagnoses associated with patient
+database design,capture maintain display as discrete data lists medications other agents which patient has had allergic other adverse reaction
+database design,capture store display manage patient history
+database design,check for potential interactions between medications be prescribed medication allergies intolerances listed in record alert at time medication prescribing ordering potential interactions exist
+database design,check for potential interactions between medications be prescribed ordered current medications alert at time medication prescribing ordering potential interactions exist
+database design,chronologically display consents authorizations
+database design,cosign note record date time signature
+database design,create assign tasks user role
+database design,create display summary list for each patient includes at minimum active problem diagnosis list current medication list medication allergies adverse reactions create clinical documentation notes henceforth documentation
+database design,create maintain directory clinical personnel external organization users system facilitate communication information exchange
+database design,create hard copy electronic report summary information procedures medications labs immunizations allergies vital signs
+database design,create patient specific instructions
+database design,create prescription other medication orders with sufficient information for correct filling dispensing pharmacy
+database design,create provider specific medication lists most commonly prescribed drugs with default route dose frequency quantity
+database design,create referral orders with detail adequate for correct routing
+database design,create site specific care plan protocol guideline documents
+database design,define set items be ordered as group
+database design,define one more reports as formal health record for disclosure purposes
+database design,designate task as completed
+database design,display dose calculator for patient specific dosing based on weight
+database design,display schedule patient appointments populated either through data entry in system itself through external application inter operating with system
+database design,display alerts based on established guidelines
+database design,display hits c ccd documents file them as intact documents in ehr
+database design,display information which has been inactivated removed from allergy adverse reaction list
+database design,display medical eligibility obtained from patients insurance carrier populated either through data entry in system itself through external application inter operating with system
+database design,display medication history for patient
+database design,display non numeric current historical test results as textual data
+database design,display outstanding orders for multiple patients as opposed outstanding orders for single patient
+database design,display reminders for disease management preventive wellness services in patient record
+database design,display allergy list including date entry
+database design,display associated problem diagnosis indication on printed prescription
+database design,display created instructions possibly possibly prompts ordering diagnostic tests procedures
+database design,display on demand potential drug allergy interactions drug drug interactions drug diagnosis interactions based on current medications active allergies active problems
+database design,document reasons disease management preventive services wellness prompts were overridden
+database design,document disease management preventive service has been performed with associated dates other relevant details recorded
+database design,document preventive disease management service has been performed based on activities documented in record eg vitals signs taken
+database design,document verbal telephone communication into patient record
+database design,enter structured response overriding drug drug drug allergy intolerance warning
+database design,enter free text notes
+database design,enter further specify in discrete field patient takes no medications
+database design,enter uncoded free text medications medications on vendor provided medication database information insufficient completely identify medication
+database design,establish criteria for disease management wellness preventive services based on clinical data problem diagnosis list current medications
+database design,establish criteria for disease management wellness preventive services based on patient demographic data minimally age gender
+database design,exclude medication from current medication list eg marked inactive erroneous completed discontinued document reason for such action
+database design,filter sort results type test test date
+database design,filter search order notes associated diagnosis within patient record
+database design,filter search order notes provider finalized note
+database design,finalize note ie change status note from in progress complete so any subsequent changes recorded as such
+database design,generate format patient summary documents per following specifications hits summary patient record content information will include patient demographics medications medication allergies generated xml documents must demonstrate use industry standard vocabularies terminologies
+database design,generate hardcopy electronic output part all individual patients medical record
+database design,generate reports consisting all part individual patients medical record eg patient summary
+database design,generate reports clinical administrative data using either internal external reporting tools
+database design,identify certain information as confidential only make accessible appropriately authorized users
+database design,identify criteria for disease management preventive wellness services based on patient demographic data age gender
+database design,identify criteria for disease management preventive wellness services based on clinical data problem diagnosis list current medications lab values
+database design,identify medication samples dispensed including lot number expiration date
+database design,identify preventive services tests counseling due on individual patient
+database design,identify full content modified note both original content content resulting after any changes corrections clarifications addenda etc finalized note
+database design,include demographic information in reports
+database design,include in order set order types including but limited medications laboratory tests imaging studies procedures referrals
+database design,index scanned documents associate date document type document
+database design,indicate patient has completed advance directive
+database design,indicate type advance directives such as living will durable power attorney do resuscitate order
+database design,indicate advance directives were last reviewed
+database design,individualize alerts address patients specific clinical situation
+database design,link results original order
+database design,maintain coded list medications including unique identifier for each medication
+database design,maintain coded list problems diagnoses
+database design,maintain directory all clinical personnel currently use access system
+database design,maintain directory which contains identifiers required for licensed clinicians support practice medicine including at minimum state medical license dea npi
+database design,maintain medication ordering dates
+database design,maintain other dates associated with medications including start modify renewal end dates as applicable
+database design,maintain onset date problem diagnosis
+database design,maintain resolution date problem diagnosis
+database design,merge patient information from two patient records into single patient record
+database design,modify one more parameters saved report specification generating report using specification
+database design,modify inactivate item on allergy adverse reaction list
+database design,modify site specific standard care plan protocol guideline documents obtained from outside sources
+database design,modify rules parameters upon which guideline related alerts based
+database design,notify provider patients due overdue for disease management preventive wellness services
+database design,notify relevant providers ordering copy new results have been received
+database design,order diagnostic tests including labs imaging studies
+database design,override guidelines
+database design,prescribe fractional amounts medication eg tsp tablet
+database design,prescribe order medication despite alerts for interactions possibly possibly allergies intolerances being present
+database design,prescribe order uncoded nonformulary medications
+database design,present list tasks user role
+database design,prevent specified from accessing designated patients chart
+database design,produce list patients due overdue for disease management preventive wellness services
+database design,produce patient instructions patient educational materials which may reside within system be provided through links external source
+database design,produce reports based on absence clinical data element eg lab test has been performed blood pressure has been measured in last year
+database design,reassign route tasks from one another user
+database design,receive display information received through electronic prescription eligibility checking
+database design,receive store general laboratory results using hl oru message standard
+database design,receive store in patients record display textbased outside reports
+database design,record patient specific instructions educational material were provided patient
+database design,record chronicity chronic acute selflimiting etc problem diagnosis
+database design,record date changes made patients medication list identity made changes
+database design,record prescribing medications including identity prescriber
+database design,record id date all updates problem diagnosis list
+database design,record date stamp for prescription related events such as initial creation renewal refills discontinuation cancellation prescription
+database design,record id date time stamp for all referral related events
+database design,remove task without completing task
+database design,respond request for refill sent from pharmacy
+database design,retrieve indexed scanned documents based on document type date
+database design,save note in progress prior finalizing note
+database design,save report parameters for generating subsequent reports
+database design,save scanned documents as images
+database design,send query verify prescription drug insurance eligibility apply response formulary benefit files determine coverage
+database design,send electronic prescription pharmacy
+database design,set severity level at which drug interaction warnings should be displayed
+database design,specify report parameters sort filter criteria based on patient demographic clinical data eg all male patients over diabetic have hbac value over on certain medication
+database design,specify role each provider associated with patient such as encounter provider primary care provider attending resident consultant using structured data
+database design,specify type allergic adverse reaction in discrete data field
+database design,store display administrative documents eg privacy notices
+database design,store more than one identifier for each patient record
+database design,store display print patient consent forms
+database design,update patient history modifying adding removing items from patient history as appropriate
+database design,update display patient specific medication list based on current medication orders prescriptions
+database design,update clinical decision support guidelines associated reference material
+database design,update disease management guidelines any associated reference material
+database design,update preventive services wellness guidelines any associated reference material
+database design,update clinical content rules utilized generate clinical decision support reminders alerts
+database design,view previously generated reports all users specific users
+database design,view status information for ordered services
+database design,view rationale for drug interaction alert
+database design,new allergy documented check for potential interaction between newly documented allergy patients current medications alert such interactions exist
+database design,store demographic information in patient medical record in separate discrete data fields such data extraction tools retrieve these data
+database design,store location identification paper documents attributes shall minimally include folder box physical location
+database design,support messaging between users
+database design,supports historical patient lookup functionality such as viewing patients locations eg where they have been transferred from view all patients have historically been in given location during time period
+database design,supports patient locator functionality such as viewing patients their location for information help desk
+database design,supports scheduling for multiple slot types
+database design,supports scheduling for appointment types
+database design,transactions page contains two basic form types
+database design,choose include omit wide variety patient information
+database design,clicks number view message inbox
+database design,interface shall be initially populated with values filtering criteria from previously saved filter
+database design,presented with two windows calendar below messages page
+database design,provides zip code or hospital code optional physician type from pull down list see data format general surgeon heart specialist pediatrician ob gyn
+database design,selects message from list read clicking read link beside row for message then message subject name sender name recipient timestamp message text shall be displayed in new page
+database design,selects appointment from calendar read its details clicking read details link beside below appointment type name displayed for appointment then details for appointment shall be displayed in new page including appointment type appointment date start time comment name either patient only for being lhcp lhcp only for being patient
+database design,selects office visit from calendar read its details clicking read details link beside below icdcm code ie diagnose displayed for visit then details for visit shall be displayed in new page including date office visit note text diagnoses ie icdcm codes medical procedures performed ie cpt code lab procedures ordered loinc code see data format medications prescribed ie ndc see data format immunizations given ie cpt code see uc s name doctor prescribed medication
+database design,these images may be stored within system be provided through direct linkage external sources
+database design,these include general reports such as appointment encounter reports billing reports patient specific reporting
+database design,these instructions may reside within system be provided through links external sources
+database design,these issues related in they all be associated with multiple encounters
+database design,these may be referrals requests from either patient doctor legal transactions
+database design,they also be associated with encounters for billing purposes able authorize encounter information entered nonauthorized users so encounter will be billable
+database design,they must be accessible from within patients chart labeled datetime stamped included in patient encounter document
+database design,allows easily spot many types errors such as appointments with missing encounters encounters with missing appointments missing charges authorizations justifications required but done
+database design,also selects newly added insurance company for patient
+database design,brings up list any contacts matching your search parameters
+database design,brings patients summary page as well as past encounters documents page which lists any previous encounters files were uploaded for patient
+database design,dialog contains list all issues encounters associated with patient
+database design,includes pharmacy insurance company information as well as types documents your clinic accepts
+database design,information will be used for billing so make sure include direct billing information enter your facilitys npi clia number
+database design,done same way with exception duration which in case nonzero
+database design,especially useful with medical problems where may want quickly determine which encounters treated particular problem which problems were treated particular encounter
+database design,useful printing so second later notices may be worded differently from initial statement
+database design,where upload era file click help in upper righthand corner for more information begin inputting payments manually
+database design,may reside within system be provided through links external sources
+database design,page contains form for entering information on any immunizations patient has received
+database design,page contains list your clinics users
+database design,pops up lightbox containing form for editing your clinics information
+database design,presents with form for entering prescription data including dosage refills whether generic over the counter substitutions allowed for patient
+database design,should include ability gather reports based on subdivisions surgery
+database design,will bring up list all patients in your system matching name
+database design,will need include multiple resource lists
+database design,will pop up light box with text field for entering note as well as drop down lists for selecting type note person note addressed
+database design,will present with list all contacts currently contained in your address book
+database design,will present with options generate variety printable electronic claims reports
+database design,would include examples like placing record result review acknowledgement in patients chart
+database design,add more categories click on desired parent folders name fill in name new document type click add category
+database design,add one these clearing houses click on x partners then click add new partner button
+database design,authorize your practitioners be sure click provider check box
+database design,begin encounter click on patients name in appointment calendar
+database design,begin log in open emr locate patient for which would like add note
+database design,change status given appointment doubleclick on appointment block
+database design,create new facility click add enter relevant data as did for other clinic
+database design,do simply click on name clinic in case your clinic name here edit its details
+database design,locate patient in system enter all part their name into search field in bottom left corner screen below navigation list click name
+database design,open encounter begin entering data click on new entry in encounters list then click edit next providers name
+database design,prescribe medication for patient click edit next prescriptions section in patient summary window click add
+database design,see fee sheet has been associated with encounter click visit history in navigation menu go list encounters for patient
+database design,see new file click on plus sign next appropriate document category which displays list all files in category
+database design,view another providers schedule select desired from list left calendar
+database design,transactions somewhat similar but record events have already occurred
+database design,type your note in text box click save as new note
+database design,upon recording results lab procedure status updated pending
+database design,use certified ehr technology identify patientspecific education resources provide those resources patient appropriate
+database design,use computerized provider order entry cpoe for medication orders directly entered any licensed healthcare professional enter orders into medical record per state local professional guidelines
+database design,validating have data in height weight allergy fields
+database design,well start setting up your facility for your users
+database design,chronic special diagnosis history patient satisfies all three conditions has multiple prescriptions satisfying third condition patient listed in list only once
+database design,access chart restricted provide means for appropriately authorized users break glass for emergency situations
+database design,ordering renally excreted nephrotoxic medication for patient with recent creatinine result indicates impaired renal function dosage adjustment recommended
+database design,date appointment request has passed no longer displayed
+database design,finished click create new patient
+database design,finished click save update calendar
+database design,finished entering your clinics information click save button update your clinic return facility administration page
+database design,finished return transaction list click add
+database design,finished click save
+database design,add new insurance company clicking add company
+database design,also add lunch break in your practitioners schedules
+database design,also choose make repeating event which allows set up event only once for given period time
+database design,also type note into comments line more information needed
+database design,change category new patient their first visit
+database design,change start date number days shown click search display new list using those parameters
+database design,search for particular contact in address book entering their name possibly possibly specialty at top page clicking search
+database design,see cpt icd codes listed next new encounter as well as soap form was added earlier
+database design,see prescription added earlier has been listed in medications section
+database design,see symbol next appointment time has changed indicate its new status
+database design,may click on issue in list at any time edit it
+database design,may use billing search tool choose from variety criteria with which search available encounters
+database design,should now be presented with patient summary page which contains summary patients identifying information including employment insurance provider information in sections may be expanded collapsed at will clicking link right desired section
+database design,youll see soap form has been added list forms for encounter
+database design,your clinic may have additional facilities in which care given such as hospital
+database design,your system should be configured with appropriate set forms for insurance companies clearing houses used your clinic
+database design,eligible hospital cah has enabled functionality has access at least one internal external formulary for entire ehr reporting period
+database design,has capability have rules based chemotherapy management component
+database design,present structured allergy information support medication ordering process
+database design,administration also includes sections for managing your facilitys forms practice information calendar categories lists database administration more
+database design,capture structured data in patient history
+database design,maintain make available historic information for demographic data including prior names addresses phone numbers email addresses
+database design,modify demographic information about patient
+database design,hese documents may reside within system be provided through links external sources
+database design,indicate normal abnormal results based on data provided from original data source
+privacy,agrees in event cms determines has reasonable belief has made may have made use reuse disclosure aforesaid file authorized agreement another written authorization from appropriate system manager person designated in section agreement cms at its sole discretion may require promptly investigate report cms usersdeterminations regarding any alleged actual unauthorized use reuse disclosure promptly resolve any problems identified investigation requested cms submit formal response allegation unauthorized use reuse disclosure requested cms submit corrective action plan with steps designed prevent any future unauthorized uses reuses disclosures requested cms return data files cms destroy data files received from cms under agreement
+privacy,covered entity may obtain consent individual use disclose protected health information carry out treatment payment health care operations
+privacy,covered entity may use disclose protected health information for its own treatment payment health care operations
+privacy,covered entity may use disclose protected health information extent such use disclosure required law use disclosure complies with limited relevant requirements such law
+privacy,authorization other express legal permission from individual use disclose protected health information for research
+privacy,individual has right receive accounting disclosures protected health information made in six years prior date on which accounting requested except for disclosures
+privacy,not use further disclose information other than as permitted data use agreement as otherwise required law
+privacy,conduct evaluation relating medical surveillance workplace
+privacy,covered entity may disclose protected health information for treatment activities health care provider
+privacy,covered entity must meet requirements described in paragraphs section for uses disclosures required law
+privacy,covered entity performs multiple covered functions may use disclose protected health information individuals receive covered entitys health plan health care provider services but both only for purposes related appropriate function being performed
+privacy,null objections filed individual have been resolved court administrative tribunal disclosures being sought consistent with such resolution
+privacy,consent under paragraphs section shall be effective permit use disclosure protected health information authorization under required another condition must be met for such use disclosure be permissible under subpart
+privacy,evaluate whether individual has work related illness injury
+privacy,use appropriate safeguards prevent use disclosure information other than as provided for data use agreement
+privacy,covered entity must temporarily suspend individuals right receive accounting disclosures health oversight agency law enforcement official as provided in or respectively for time specified such agency official such agency official provides covered entity with written statement such accounting individual would be reasonably likely impede agencys activities specifying time for which such suspension required
+privacy,covered entity may disclose protected health information another covered entity health care provider for payment activities entity receives information
+privacy,protect against any reasonably anticipated uses disclosures such information permitted required under subpart part 
+privacy,covered entity may disclose protected health information another covered entity for health care operations activities entity receives information each entity either has had relationship with individual subject protected health information being requested protected health information pertains such relationship disclosure is
+privacy,participates in organized health care arrangement may disclose protected health information about individual another covered entity participates in organized health care arrangement for any health care operations activities organized health care arrangement
+privacy,description including at least one example types uses disclosures covered entity permitted subpart make for each following purposes treatment payment health care operations
+privacy,statement covered entity required law maintain privacy protected health information provide individuals with notice of its legal duties privacy practices with respect protected health information
+privacy,describe those employees classes employees other persons under control plan sponsor be given access protected health information be disclosed provided any employee person receives protected health information relating payment under health care operations other matters pertaining group health plan in ordinary course business must be included in such description
+privacy,develop criteria designed limit protected health information disclosed information reasonably necessary accomplish purpose for which disclosure sought and
+privacy,develop criteria designed limit request for protected health information information reasonably necessary accomplish purpose for which request made and
+privacy,establish permitted uses disclosures such information limited data set recipient consistent with paragraphs section
+privacy,if extent permitted required applicable provision state other law including applicable case law may disclose provide access in accordance with protected health information about unemancipated minor parent guardian other person acting in loco parentis
+privacy,not use further disclose information other than as permitted required contract as required law
+privacy,not use further disclose information other than as permitted required plan documents as required law
+privacy,prohibits parties from using disclosing protected health information for any purpose other than litigation proceeding for which such information was requested and
+privacy,contract may permit business associate use disclose protected health information for proper management administration business associate as provided in paragraphs section and
+privacy,covered entity covered health care provider member workforce such employer provides health care individual at request employer
+privacy,covered entity in exercise professional judgment believes disclosure necessary prevent serious harm individual other potential victims or
+privacy,name protocol other research activity
+privacy,right request restrictions on certain uses disclosures protected health information as provided including statement covered entity required agree requested restriction
+privacy,those persons classes persons as appropriate in its workforce need access protected health information carry out their duties and
+privacy,collect report adverse events similar activities with respect food dietary supplements product defects problems including problems with use labeling product biological product deviations
+privacy,use originator psychotherapy notes for treatment
+privacy,use disclosure sought solely review protected health information as necessary prepare research protocol for similar purposes preparatory research
+privacy,description each other purposes for which covered entity permitted required subpart use disclose protected health information without individuals written authorization
+privacy,for each such person class persons category categories protected health information which access needed any conditions appropriate such access
+privacy,if individual unable agree because incapacity law enforcement other public official authorized receive report represents protected health information for which disclosure sought intended be used against individual immediate enforcement activity depends upon disclosure would be materially adversely affected waiting until individual able agree disclosure
+privacy,if extent prohibited applicable provision state other law including applicable case law may disclose provide access in accordance with protected health information about unemancipated minor parent guardian other person acting in loco parentis and
+privacy,requires return covered entity destruction protected health information including all copies made at end litigation proceeding
+privacy,review requests for disclosure on individual basis in accordance with such criteria
+privacy,such change effective only with respect protected health information created received after effective date notice
+privacy,contract may permit business associate provide data aggregation services relating health care operations covered entity
+privacy,party seeking protected health information has requested qualified protective order from such court administrative tribunal
+privacy,protected health information disclosed consists findings concerning work related illness injury workplace related medical surveillance
+privacy,right receive confidential communications protected health information as provided as applicable
+privacy,rack fda regulated products
+privacy,use appropriate safeguards prevent use disclosure information other than as provided for its contract
+privacy,use disclosure covered entity for its own training programs in which students trainees practitioners in mental health learn under supervision practice improve their skills in group joint family individual counseling or
+privacy,business associate obtains reasonable assurances from person information disclosed will be held confidentially used further disclosed only as required law for purpose for which was disclosed person and
+privacy,group health plan health insurance issuer hmo with respect group health plan may disclose protected health information sponsor plan
+privacy,not use disclose information for employment related actions decisions in connection with any other benefit employee benefit plan plan sponsor
+privacy,employer needs such findings in order comply with its obligations under cfr parts through cfr parts through under state law having similar purpose record such illness injury carry out responsibilities for workplace medical surveillance and
+privacy,right inspect copy protected health information as provided 
+privacy,enable product recalls repairs replacement lookback including locating notifying individuals have received products have been recalled withdrawn subject lookback or
+privacy,use disclosure covered entity defend itself in legal action other proceeding brought individual and
+privacy,covered health care provider provides written notice individual protected health information relating medical surveillance workplace work related illnesses injuries disclosed employer
+privacy,right amend protected health information as provided 
+privacy,conduct post marketing surveillance
+privacy,right receive accounting disclosures protected health information as provided and
+privacy,covered entity may disclose protected health information business associate may allow business associate create receive protected health information on its behalf covered entity obtains satisfactory assurance business associate will appropriately safeguard information
+privacy,covered entity may use disclose limited data set under paragraphs section only for purposes research public health health care operations
+privacy,covered entity may in accordance with paragraphs section disclose family member other relative close personal friend individual any other person identified individual protected health information directly relevant such persons involvement with individuals care payment related individuals health care
+privacy,covered entity must limit any request for protected health information which reasonably necessary accomplish purpose for which request made requesting such information from other covered entities
+privacy,covered entity must permit individual request covered entity restrict uses disclosures protected health information about individual carry out treatment payment health care operations disclosures permitted under 
+privacy,covered entity maintains web site provides information about covered entitys customer services benefits must prominently post its notice on web site make notice available electronically through web site
+privacy,covered health care provider may condition provision research related treatment on provision authorization for use disclosure protected health information for such research under section
+privacy,covered health care provider must permit individuals request must accommodate reasonable requests individuals receive communications protected health information from covered health care provider alternative means at alternative locations
+privacy,covered health care provider providing emergency health care in response medical emergency other than such emergency on premises covered health care provider may disclose protected health information law enforcement official such disclosure appears necessary alert law enforcement to
+privacy,description information be used disclosed identifies information in specific meaningful fashion
+privacy,health plan government program providing public benefits may disclose protected health information relating eligibility for enrollment in health plan another agency administering government program providing public benefits sharing eligibility enrollment information among such government agencies maintenance such information in single combined data system accessible all such government agencies required expressly authorized statute regulation
+privacy,public health authority authorized law collect receive such information for purpose preventing controlling disease injury disability including but limited reporting disease injury vital events such as birth death conduct public health surveillance public health investigations public health interventions at direction public health authority official foreign government agency acting in collaboration with public health authority
+privacy,disclose protected health information plan sponsor carry out plan administration functions plan sponsor performs only consistent with provisions paragraphs section
+privacy,disclosure code other means record identification designed enable coded otherwise deidentified information be reidentified constitutes disclosure protected health information and
+privacy,establish permitted required uses disclosures such information business associate
+privacy,establish permitted required uses disclosures such information plan sponsor provided such permitted required uses disclosures may be inconsistent with subpart
+privacy,except as provided under paragraphs section as otherwise authorized under group health plan in order disclose protected health information plan sponsor provide for permit disclosure protected health information plan sponsor health insurance issuer hmo with respect group health plan must ensure plan documents restrict uses disclosures such information plan sponsor consistent with requirements subpart
+privacy,for any type disclosure makes on routine recurring basis must implement policies procedures which may be standard protocols limit protected health information disclosed amount reasonably necessary achieve purpose disclosure
+privacy,if opportunity object uses disclosures required paragraphs section cannot practicably be provided because individuals incapacity emergency treatment circumstance covered health care provider may use disclose some all protected health information permitted paragraphs section for facilitys directory such disclosure is
+privacy,addition information required paragraphs section elects limit uses disclosures permitted make under subpart covered entity may describe its more limited uses disclosures in its notice provided covered entity may include in its notice limitation affecting its right make use disclosure required law permitted
+privacy,response order court administrative tribunal provided covered entity discloses only protected health information expressly authorized such order or
+privacy,notwithstanding any provision subpart other than transition provisions in must obtain authorization for any use disclosure protected health information for marketing except communication in form of
+privacy,contract other arrangement between covered entity business associate may permit business associate use information received business associate in its capacity as business associate covered entity necessary
+privacy,covered entity may disclose only following information
+privacy,covered entity may use disclose protected health information for fundraising purposes as otherwise permitted paragraphs section unless statement required included in covered entitys notice
+privacy,extent disclosure required law disclosure complies with limited relevant requirements such law
+privacy,use following protected health information maintain directory individuals in its facility
+privacy,covered entity required agree restriction
+privacy,covered entity may use disclose protected health information notify assist in notification including identifying locating family member personal representative individual another person responsible for care individual individuals location general condition death
+privacy,covered entity may use protected health information create limited data set meets requirements paragraphs section disclose protected health information only business associate for such purpose whether limited data set be used covered entity
+privacy,covered entity must reasonably safeguard protected health information limit incidental uses disclosures made pursuant otherwise permitted required use disclosure
+privacy,covered entity correctional institution covered health care provider acting under direction correctional institution may deny in whole in part inmates request obtain copy protected health information obtaining such copy would jeopardize health safety security custody rehabilitation individual other inmates safety any officer employee other person at correctional institution responsible for transporting inmate
+privacy,covered entity government agency administering government program providing public benefits may disclose protected health information relating program another covered entity government agency administering government program providing public benefits programs serve same similar populations disclosure protected health information necessary coordinate covered functions such programs improve administration management relating covered functions such programs
+privacy,health plan must permit individuals request must accommodate reasonable requests individuals receive communications protected health information from health plan alternative means at alternative locations individual clearly states disclosure all part information could endanger individual
+privacy,public health authority other appropriate government authority authorized law receive reports child abuse neglect
+privacy,use disclosure required permitted with respect oversight originator psychotherapy notes
+privacy,disclose for directory purposes such information members clergy except for religious affiliation other persons ask for individual name
+privacy,except as permitted paragraphs section covered entity may disclose for purposes identification location under paragraphs section any protected health information related individuals dna dna analysis dental records typing samples analysis body fluids tissue
+privacy,for request made on routine recurring basis must implement policies procedures which may be standard protocols limit protected health information requested amount reasonably necessary accomplish purpose for which request made
+privacy,for covered entity apply change in its more limited uses disclosures protected health information created received prior issuing revised notice in accordance with notice must include statements required paragraph section
+privacy,government benefit programs for which health information relevant beneficiary eligibility
+privacy,if has reserved its right under change privacy practice stated in notice covered entity bound privacy practices as stated in notice with respect protected health information created received while such notice in effect
+privacy,if deidentified information reidentified may use disclose such reidentified information only as permitted required subpart
+privacy,if individual agrees disclosure or
+privacy,response subpoena discovery request other lawful process accompanied order court administrative tribunal if
+privacy,not permit health insurance issuer hmo with respect group health plan disclose protected health information plan sponsor except as permitted paragraph
+privacy,provide group health plan will disclose protected health information plan sponsor only upon receipt certification plan sponsor plan documents have been amended incorporate following provisions plan sponsor agrees to
+privacy,contract other arrangement between covered entity business associate may permit business associate disclose information received business associate in its capacity as business associate for purposes described in paragraphs section if
+privacy,covered health care provider must inform individual provide opportunity object uses disclosures for directory purposes as required paragraphs section becomes practicable do so
+privacy,group health plan health insurance issuer hmo with respect group health plan may disclose summary health information plan sponsor plan sponsor requests summary health information for purpose of
+privacy,name other specific identification person class persons authorized make requested use disclosure
+privacy,changes privacy practice stated in notice described in makes corresponding changes its policies procedures may make changes effective for protected health information created received prior effective date notice revision covered entity has in accordance with included in notice statement reserving its right make such change in its privacy practices or
+privacy,covered entity may condition provision health care solely for purpose creating protected health information for disclosure third party on provision authorization for disclosure protected health information such third party
+privacy,covered entity agrees restriction under paragraphs section may use disclose protected health information in violation such restriction except individual requested restriction in need emergency treatment restricted protected health information needed provide emergency treatment covered entity may use restricted protected health information may disclose such information health care provider provide such treatment individual
+privacy,person subject jurisdiction food drug administration fda with respect fda regulated product activity for which person has responsibility for purpose activities related quality safety effectiveness such fda regulated product activity
+privacy,individuals access protected health information created obtained covered health care provider in course research includes treatment may be temporarily suspended for as long as research in progress provided individual has agreed denial access consenting participate in research includes treatment covered health care provider has informed individual right access will be reinstated upon completion research
+privacy,not disclose may permit health insurance issuer hmo disclose protected health information plan sponsor as otherwise permitted paragraph unless statement required included in appropriate notice and
+privacy,group health plan health insurance issuer hmo with respect group health plan may disclose plan sponsor information on whether individual participating in group health plan enrolled in has disenrolled from health insurance issuer hmo offered plan
+privacy,name other specific identification person class persons covered entity may make requested use disclosure
+privacy,extent disclosure expressly authorized statute regulation and
+privacy,description each purpose requested use disclosure
+privacy,person may have been exposed communicable disease may otherwise be at risk contracting spreading disease condition covered entity public health authority authorized law notify such person as necessary in conduct public health intervention investigation or
+privacy,individuals access protected health information contained in records subject privacy act usc may be denied denial access under privacy act would meet requirements law
+privacy,entities subject civil rights laws for which health information necessary for determining compliance
+privacy,disclose protected health information plan sponsor for purpose employmentrelated actions decisions in connection with any other benefit employee benefit plan plan sponsor
+privacy,expiration date expiration event relates individual purpose use disclosure
+privacy,individuals access may be denied protected health information was obtained from someone other than health care provider under promise confidentiality access requested would be reasonably likely reveal source information
+privacy,for purposes paragraphs section qualified protective order means with respect protected health information requested under paragraphs section order court administrative tribunal stipulation parties litigation administrative proceeding that
+privacy,notwithstanding paragraphs section may disclose protected health information in response lawful process described in paragraphs section without receiving satisfactory assurance under paragraphs section covered entity makes reasonable efforts provide notice individual sufficient meet requirements paragraphs section seek qualified protective order sufficient meet requirements paragraphs section
+privacy,covered entity permitted use disclose protected health information as follows
+privacy,covered entity required disclose protected health information
+privacy,covered entity may deny individual access without providing individual opportunity for review in following circumstances
+privacy,covered entity may disclose protected health information about individual has died law enforcement official for purpose alerting law enforcement death individual covered entity has suspicion such death may have resulted from criminal conduct
+privacy,covered entity may disclose protected health information as authorized extent necessary comply with laws relating workers compensation other similar programs established law provide benefits for work related injuries illness without regard fault
+privacy,covered entity may disclose protected health information for law enforcement purpose law enforcement official conditions in paragraph section met as applicable
+privacy,covered entity may disclose protected health information for public health activities purposes described in paragraph to
+privacy,covered entity may disclose protected health information in course any judicial administrative proceeding
+privacy,covered entity may disclose protected health information coroner medical examiner for purpose identifying deceased person determining cause death other duties as authorized law
+privacy,covered entity may disclose protected health information health oversight agency for oversight activities authorized law including audits civil administrative criminal investigations inspections licensure disciplinary actions civil administrative criminal proceedings actions other activities necessary for appropriate oversight of
+privacy,covered entity may disclose protected health information authorized federal officials for conduct lawful intelligence counterintelligence other national security activities authorized national security act usc et seq implementing authority eg executive order 
+privacy,covered entity may disclose protected health information authorized federal officials for provision protective services president other persons authorized usc foreign heads state other persons authorized usc for conduct investigations authorized usc 
+privacy,covered entity may disclose protected health information funeral directors consistent with applicable law as necessary carry out their duties with respect decedent
+privacy,covered entity may disclose protected health information
+privacy,covered entity may disclose correctional institution law enforcement official having lawful custody inmate other individual protected health information about such inmate individual correctional institution such law enforcement official represents such protected health information necessary for
+privacy,covered entity may disclose law enforcement official protected health information covered entity believes in good faith constitutes evidence criminal conduct occurred on premises covered entity
+privacy,covered entity may use disclose protected health information except as permitted required subpart subpart part subchapter
+privacy,covered entity may use disclose protected health information individuals armed forces personnel for activities deemed necessary appropriate military command authorities assure proper execution military mission appropriate military authority has published notice in federal register following information
+privacy,covered entity may use disclose protected health information individuals foreign military personnel their appropriate foreign military authority for same purposes for which uses disclosures permitted for armed forces personnel under notice published in federal register pursuant paragraph section
+privacy,covered entity may use disclose limited data set under paragraphs section only covered entity obtains satisfactory assurance in form data use agreement meets requirements section limited data set recipient will only use disclose protected health information for limited purposes
+privacy,covered entity may use disclose protected health information for research regardless source funding research provided that
+privacy,covered entity may use disclose protected health information public private entity authorized law its charter assist in disaster relief efforts for purpose coordinating with such entities uses disclosures permitted paragraphs section
+privacy,covered entity may use disclose protected health information organ procurement organizations other entities engaged in procurement banking transplantation cadaveric organs eyes tissue for purpose facilitating organ eye tissue donation transplantation
+privacy,covered entity may use disclose protected health information without written authorization individual as described in opportunity for individual agree object as described in in situations covered section subject applicable requirements section
+privacy,covered entity may use disclose protected health information provided individual informed in advance use disclosure has opportunity agree prohibit restrict use disclosure in accordance with applicable requirements section
+privacy,covered entity may use professional judgment its experience with common practice make reasonable inferences individuals best interest in allowing person act on behalf individual pick up filled prescriptions medical supplies xrays other similar forms protected health information
+privacy,covered entity may use protected health information create information individually identifiable health information disclose protected health information only business associate for such purpose whether deidentified information be used covered entity
+privacy,covered entity may use disclose business associate institutionally related foundation following protected health information for purpose raising funds for its own benefit without authorization meeting requirements 
+privacy,covered entity may consistent with applicable law standards ethical conduct use disclose protected health information covered entity in good faith believes use disclosure
+privacy,covered entity must comply with requirements subpart with respect protected health information deceased individual
+privacy,covered entity must have in place appropriate administrative technical physical safeguards protect privacy protected health information
+privacy,covered entity must implement policies procedures with respect protected health information designed comply with standards implementation specifications other requirements subpart
+privacy,covered entity must mitigate extent practicable any harmful effect known covered entity use disclosure protected health information in violation its policies procedures requirements subpart covered entity its business associate
+privacy,covered entity must reasonably safeguard protected health information from any intentional unintentional use disclosure in violation standards implementation specifications other requirements subpart
+privacy,covered entity must train all members its workforce on policies procedures with respect protected health information required subpart as necessary appropriate for members workforce carry out their function within covered entity
+privacy,covered entity also performs duties coroner medical examiner may use protected health information for purposes described in paragraph
+privacy,covered entity has agreed restriction pursuant may use disclose protected health information covered restriction in violation such restriction except as otherwise provided in 
+privacy,covered entity component department state may use protected health information make medical suitability determinations may disclose whether individual was determined be medically suitable officials in department state need access such information for following purposes
+privacy,covered entity component department veterans affairs may use disclose protected health information components department determine eligibility for entitlement provide benefits under laws administered secretary veterans affairs
+privacy,covered entity component departments defense transportation may disclose department veterans affairs dva protected health information individual member armed forces upon separation discharge individual from military service for purpose determination dva individuals eligibility for entitlement benefits under laws administered secretary veterans affairs
+privacy,covered entity correctional institution may use protected health information individuals inmates for any purpose for which such protected health information may be disclosed
+privacy,covered entity required have notice may use disclose protected health information in manner inconsistent with such notice
+privacy,covered entity required include specific statement in its notice intends engage in activity listed in may use disclose protected health information for such activities unless required statement included in notice
+privacy,covered health care provider must inform individual protected health information may include in directory persons may disclose such information including disclosures clergy information regarding religious affiliation provide individual with opportunity restrict prohibit some all uses disclosures permitted paragraphs section
+privacy,also no use percentages other mathematical formulas may be used they result in display cell less
+privacy,any such use disclosure protected health information for such notification purposes must be in accordance with paragraphs section as applicable
+privacy,as specified in paragraph must except as provided in paragraph section treat personal representative as individual for purposes subchapter
+privacy,data recipient shall have right use all individually identifiable health information iihi provided data custodian for research public health health care operations purposes as listed below be brief but use as much space as necessary
+privacy,data recipient shall use appropriate safeguards protect iihi from misuse inappropriate disclosure prevent any use disclosure iihi other than as provided in dua as otherwise required law regulation
+privacy,except as otherwise permitted required subchapter may use disclose protected health information without authorization valid under section
+privacy,except as otherwise provided in paragraphs section individual has right access inspect obtain copy protected health information about individual in designated record set for as long as protected health information maintained in designated record set except for
+privacy,except as provided paragraphs section individual has right adequate notice uses disclosures protected health information may be made covered entity individuals rights covered entitys legal duties with respect protected health information
+privacy,except for disclosures required law as permitted paragraphs section may disclose protected health information in response law enforcement officials request for such information for purpose identifying locating suspect fugitive material witness missing person provided that
+privacy,except for disclosures required law as permitted paragraphs section may disclose protected health information in response law enforcement officials request for such information about individual is suspected be victim crime other than disclosures subject paragraphs section if
+privacy,except for reports child abuse neglect permitted paragraphs section may disclose protected health information about individual covered entity reasonably believes be victim abuse neglect domestic violence government authority including social service protective services agency authorized law receive reports such abuse neglect domestic violence
+privacy,except with respect uses disclosures require authorization under may use disclose protected health information for treatment payment health care operations as set forth in paragraphs section provided such use disclosure consistent with other applicable requirements subpart
+privacy,for all uses disclosures requests which requirements in paragraphs section apply may use disclose request entire medical record except entire medical record specifically justified as amount reasonably necessary accomplish purpose use disclosure request
+privacy,further agrees data must be physically moved transmitted disclosed in any way from site indicated in section without written approval from cms unless such movement transmission disclosure required law
+privacy,further represents said study protocol project plans have been approved cms other appropriate entity as cms may determine represent total use which data file specified in section will be put
+privacy,furthermore cms determines risk harm requires notification affected individual persons security breach possibly possibly other remedies agrees carry out these remedies without cost cms
+privacy,if also health oversight agency covered entity may use protected health information for health oversight activities as permitted paragraphs section
+privacy,if health plan receives protected heath information for purpose underwriting premium rating other activities relating creation renewal replacement contract health insurance health benefits such health insurance health benefits placed with health plan such health plan may use disclose such protected health information for any other purpose except as may be required law
+privacy,if necessary for funeral directors carry out their duties covered entity may disclose protected health information prior in reasonable anticipation individuals death
+privacy,if covered entity also public health authority covered entity permitted use protected health information in all cases in which permitted disclose such information for public health activities under paragraphs section
+privacy,if individual present opportunity agree object use disclosure cannot practicably be provided because individuals incapacity emergency circumstance covered entity may in exercise professional judgment determine whether disclosure in best interests individual so disclose only protected health information directly relevant persons involvement with individuals health care
+privacy,if individual present for otherwise available prior use disclosure permitted paragraphs section has capacity make health care decisions covered entity may use disclose protected health information it
+privacy,if under applicable law parent guardian other person acting in loco parentis has authority act on behalf individual unemancipated minor in making decisions related health care must treat such person as personal representative under subchapter with respect protected health information relevant such personal representation except such person may be personal representative unemancipated minor minor has authority act as individual with respect protected health information pertaining health care service if
+privacy,if under applicable law person has authority act on behalf individual adult emancipated minor in making decisions related health care must treat such person as personal representative under subchapter with respect protected health information relevant such personal representation
+privacy,if under applicable law executor administrator other person has authority act on behalf deceased individual individuals estate must treat such person as personal representative under subchapter with respect protected health information relevant such personal representation
+privacy,exchange agrees pay any applicable fees agrees use data only for purposes support users study research project referenced in agreement which has been determined cms provide assistance cms in monitoring managing improving medicare medicaid programs services provided beneficiaries agrees ensure integrity security confidentiality data complying with terms agreement applicable law including privacy act health insurance portability accountability act
+privacy,order comply with section must meet requirements paragraph section with respect request for use disclosure protected health information
+privacy,order secure data reside in cms privacy act system records in order ensure integrity security confidentiality information maintained cms permit appropriate disclosure use such data as permitted law cms requestor agreement comply with following specific paragraphs
+privacy,includes ability customize so only those patient classes facility desires will show up on locator also includes capability indicate which patients want opt out being listed in patient directory
+privacy,notwithstanding may use disclose protected health information consistent with paragraphs section pursuant authorization other express legal permission obtained from individual permitting use disclosure protected health information informed consent individual participate in research waiver informed consent irb
+privacy,notwithstanding any other provisions subpart other than small health plan may disclose protected health information business associate may allow business associate create receive use protected health information on its behalf pursuant written contract other written arrangement with such business associate does comply with consistent with requirements only for such time set forth in paragraphs section
+privacy,notwithstanding any provision subpart other than transition provisions in must obtain authorization for any use disclosure psychotherapy notes except carry out following treatment payment health care operations
+privacy,notwithstanding any provisions in may use disclose protected health information created received prior applicable compliance date subpart pursuant authorization other express legal permission obtained from individual prior applicable compliance date subpart provided authorization other express legal permission specifically permits such use disclosure there no agreed to restriction in accordance with 
+privacy,notwithstanding any provisions in may extent allowed one following permissions use disclose for research protected health information created received either before after applicable compliance date subpart provided there no agreedto restriction in accordance with covered entity has obtained prior applicable compliance date either
+privacy,on page displayed recommendations warnings regarding directories apache should allow outside world see as these directories contain protected health information
+privacy,recipient agrees any employees agents subcontractors discloses iihi will use further disclose iihi other than as permitted dua as otherwise required law regulation
+privacy,recipient shall attempt identify individuals iihi pertains attempt contact such individuals
+privacy,security privacy such system paramount importance
+privacy,provides administrative ability block users access individual patient records for privacy reasons
+privacy,contract may authorize business associate use further disclose information in manner would violate requirements subpart done covered entity except that
+privacy,covered entity does use disclose code other means record identification for any other purpose does disclose mechanism for reidentification
+privacy,covered entity obtains documentation alteration waiver in whole in part individual authorization required for use disclosure protected health information has been approved either
+privacy,covered entity obtains from researcher representations that
+privacy,data use agreement may authorize limited data set recipient use further disclose information in manner would violate requirements subpart done covered entity
+privacy,notice must contain statement individuals rights with respect protected health information brief description how individual may exercise these rights as follows
+privacy,policies procedures must be reasonably designed taking into account size type activities relate protected health information undertaken covered entity ensure such compliance
+privacy,protect identity players
+privacy,provide players no access information might reveal identity another player
+privacy,statement at request individual sufficient description purpose individual initiates authorization does elects provide statement purpose
+privacy,statement end research study none similar language sufficient authorization for use disclosure protected health information for research including for creation maintenance research database research repository
+privacy,has capability electronically provide patient reports on demand following allow for hiding private information comply with hipaa privacy security requirements
+privacy,have privacy policy linked off home page
+privacy,notify customers changes its information policy
+privacy,protect private information in accordance with organizations information policy
+privacy,reveal private information only in compliance with organizations information policy
+privacy,acknowledges use unsecured telecommunications including internet transmit individually identifiable bidder identifiable deducible information derived from file specified in section prohibited
+privacy,agrees disclose direct findings listings information derived from file specified in section with without direct identifiers such findings listings information themselves in combination with other data be used deduce individuals identity
+privacy,agrees disclose use reuse data covered agreement except as specified in attachment agreement except as cms shall authorize in writing as otherwise required law sell rent lease loan otherwise grant access data covered agreement
+privacy,agrees any use cms data in creation any document manuscript table chart study report etc concerning purpose specified in section regardless whether report other writing expressly refers such purpose cms files specified in section any data derived from such files must adhere cms current cell size suppression policy
+privacy,agrees absent express written authorization from appropriate system manager person designated in section agreement do so shall attempt link records included in file specified in section any other individually identifiable source information
+privacy,represents in furnishing data file specified in section cms relies upon such representation such data file will be used solely for following purpose
+privacy,understands agrees they may reuse original derivative data file without prior written approval from appropriate system manager person designated in section agreement
+privacy,understands as result cmss determination reasonable belief unauthorized uses reuses disclosures have taken place cms may refuse release further cms data for period time be determined cms
+privacy,website shall make its aware its information practices before collection data from them via privacy policy accessible on all pages website
+privacy,agreement addresses conditions under which cms will disclose will obtain use reuse disclose cms data file specified in section possibly possibly any derivative file contain direct individual identifiers elements be used in concert with other information identify individuals
+privacy,policy stipulates no cell eg admittances discharges patients services less may be displayed
+privacy,obtains receives valid authorization for its use disclosure protected health information such use disclosure must be consistent with such authorization
+privacy,using disclosing protected health information requesting protected health information from another covered entity must make reasonable efforts limit protected health information minimum necessary accomplish intended purpose use disclosure request
+privacy,entities subject government regulatory programs for which health information necessary for determining compliance with program standards
+security,session has been inactive for more than ten minutes terminated
+security,disable accounts after days inactivity
+security,passwords be changed associated only once in day period
+security,security decisions made based on user supplied file names paths
+security,does accept file names file paths from calling functions
+security,users reauthenticated before changing passwords
+security,measures in place protect information from being accidentally overwritten
+security,ensure confidentiality integrity availability all electronic protected health information covered entity creates receives maintains transmits
+security,protect against any reasonably anticipated threats hazards security integrity such information
+security,use appropriate safeguards prevent use disclosure information other than as provided for data use agreement
+security,protect against any reasonably anticipated uses disclosures such information permitted required under subpart part
+security,description process in place ensure no amounts higher than percent ffp will be claimed state for reimbursement expenditures for state payments medicaid eligible providers for certified ehr technology incentive payment program methodology for verifying such information
+security,description process in place for ensuring improvements in health outcomes clinical quality efficiency resulting from adoption certified ehr technology recipients medicaid incentive payments methodology for verifying such information
+security,description process in place for ensuring any certified ehr technology used as basis for payment incentive medicaid providers compatible with state federal administrative management systems including mmis other automated claims processing system information retrieval system methodology for verifying such information
+security,implement administrative physical technical safeguards reasonably appropriately protect confidentiality integrity availability electronic protected health information creates receives maintains transmits on behalf covered entity as required subpart
+security,no protected health information be removed from covered entity researcher in course review and
+security,right receive confidential communications protected health information as provided as applicable
+security,use appropriate safeguards prevent use disclosure information other than as provided for its contract
+security,except with respect disclosures under verify identity person requesting protected health information authority any such person have access protected health information under subpart identity any such authority such person known covered entity and
+security,implement administrative physical technical safeguards reasonably appropriately protect confidentiality integrity availability electronic protected health information creates receives maintains transmits on behalf group health plan
+security,customer service including provision data analyses for policy holders plan sponsors other customers provided protected health information disclosed such policy holder plan sponsor customer
+security,ensure adequate separation required supported reasonable appropriate security measures
+security,all logons shall be either company employees external users with companyapproved ids
+security,covered entity must have in place appropriate administrative technical physical safeguards protect privacy protected health information
+security,patient has authenticated him herself in itrust medical records system uc
+security,security risk assessment requirement for compliance with hipaa meaningful use
+security,software tester has login password
+security,after installation upgrade consider removingor ensuring no access to following scripts which needed for general openemr use
+security,consider firewall only allows port https traffic server
+security,consider adding specific sqlconfdotphp override settings using patient portal especially onsite portal which be used use separate mysql possibly database
+security,do allow direct web access following directories
+security,enforce password expiration which be set in administrationglobalssecurity
+security,enforce strong unique passwords which be set in administrationglobalssecurity
+security,ensure root password set something
+security,if using portal want allow users access over internet then consider using clientsided certificates only allow users access site
+security,if want give access patient portals over internet then consider using clientsided certificate only allow users access main openemr login page
+security,if using xampp note software extremely unsecure after installation need secure see xampp security instructions secure your xampp installation
+security,on server consider only opening port https
+security,only allow https ie turn off http
+security,only allowing ip address third party portal access soap apis for patient access
+security,passwords should be held standard be required change at intervals
+security,a third party portal could also set up ssh tunnel method so local openemr instance open web possibly even require ip address
+security,a third party portal could set up certificate identify their server as option further secure
+security,ability for administrator delegate authority group reset password
+security,ability for administrator delegate authority group restore system access locked out user
+security,administration interfaces require strong authentication authorization
+security,after installation finished then secure files should be done as root user
+security,after three failed attempts with id in given session disallow attempts log in via ip address for minutes see comments in source code
+security,all additions new users modifications users access shall be recorded on report
+security,all authorized users once authenticated must be able logon disputes system
+security,all credit card information will be encrypted in database
+security,all customer information will be stored on secure database accessible only authorized personnel
+security,all input parameters validated including form fields query strings cookies http headers
+security,all system accounts identified
+security,all updates data files database must be initiated from disputes system
+security,all sessions involving financial transactions sensitive data encrypted using sslhttps
+security,authenticated session ends logs out closes itrust application
+security,example reflexive testing confirmatory test automatically ordered after screening test positive
+security,and remember openemrs username passwords case sensitive
+security,any changes in passwords possibly possibly permissions should take affect in all parts system
+security,apply appropriate sanctions against workforce members fail comply with security policies procedures covered entity
+security,attempts access resources using parent paths blocked
+security,conduct accurate thorough assessment potential risks vulnerabilities confidentiality integrity availability electronic protected health information held covered entity
+security,conduct review security risk analysis in accordance with requirements under cfr implement security updates as necessary correct identified security deficiencies as part its risk management process
+security,configuration credentials authentication tokens held in plain text in configuration files
+security,configuration stores secured from unauthorized access tampering
+security,cookies containing wcs login information about will be stored on users computer
+security,cookies with sensitive data eg authentication cookies encrypted
+security,cryptographic algorithm key size for systems data encryption requirements aes bit stronger
+security,customer will no longer be able access website
+security,data collection devices eg handheld devices etc synchronize with system securely using authentication authorization encryption mechanisms
+security,data integrity scripts will be run on weekly basis verify integrity database
+security,data validated for type length format range
+security,data recipient shall use appropriate safeguards protect iihi from misuse inappropriate disclosure prevent any use disclosure iihi other than as provided in dua as otherwise required law regulation
+security,data validation consistent across system
+security,database keys connections passwords other secrets stored in plain text
+security,database file encryption for protection sensitive data fields while data at rest ie stored data provided
+security,database will mark account as inactive will be able log into website
+security,dr susan poslusny dr julie donalek only people shall have access students personal information
+security,each conference room reservation in system will contain same information as was entered user
+security,each team owner will need use username password in order be authenticated reach team owners page
+security,electronic sessions must terminate after ten minutes inactivity
+security,encrypted data delivered over internet transmitted via open protocols eg ssl xml encryption
+security,encryption capability for certain data transmissions require security protection
+security,encryption keys secured
+security,ensure authentication reset after period inactivity exceeds ten minutes
+security,every be authenticated authorized
+security,fit criterion dr susan poslusny karen sysol only people shall have access final class section scheduling for system interfaces with campusconnect
+security,for eprescribing for cchit certification ehr systems shall support two factor authentication
+security,for systems provide access phi through web browser interface ie html over http shall include capability encrypt data communicated over network via ssl html over https
+security,furthermore cms determines risk harm requires notification affected individual persons security breach possibly possibly other remedies agrees carry out these remedies without cost cms
+security,identify respond suspected known security incidents mitigate extent practicable harmful effects security incidents known covered entity document security incidents their outcomes
+security,identify security standard ssl fips encryption
+security,if account revoked only be reinstantiated system administrator
+security,if structured query language sql authentication used eg communication between application server database server credentials secured in storage over wire via secure socket layer ssl ip security ipsec
+security,if system includes hardware include documentation covers expected physical environment necessary for proper secure reliable operation system including electrical hvac sterilization work area
+security,if your first time logging in openemr recommended change your password something more secure
+security,implement mechanism encrypt decrypt electronic protected health information
+security,implement mechanism encrypt electronic protected health information whenever deemed appropriate
+security,implement security awareness training program for all members its workforce including management
+security,implement electronic mechanisms corroborate electronic protected health information has been altered destroyed in unauthorized manner
+security,implement electronic procedures terminate electronic session after predetermined time inactivity
+security,implement physical safeguards for all workstations access electronic protected health information restrict access authorized users
+security,implement policies procedures govern receipt removal hardware electronic media contain electronic protected health information into out facility movement these items within facility
+security,implement policies procedures specify proper functions be performed manner in which those functions be performed physical attributes surroundings specific workstation class workstation access electronic protected health information
+security,implement policies procedures address security incidents
+security,implement policies procedures address final disposition electronic protected health information possibly possibly hardware electronic media on which stored
+security,implement policies procedures document repairs modifications physical components facility which related security for example hardware walls doors locks
+security,implement policies procedures prevent detect contain correct security violations
+security,implement policies procedures protect electronic protected health information from improper alteration destruction
+security,implement policies procedures safeguard facility equipment therein from unauthorized physical access tampering theft
+security,implement policies procedures address final disposition electronic protected health information possibly hardware electronic media on which stored from electronic media before media made available for reuse
+security,implement procedures regularly review records information system activity such as audit logs access reports security incident tracking reports
+security,implement procedures verify person entity seeking access electronic protected health information one claimed
+security,implement security measures sufficient reduce risks vulnerabilities reasonable appropriate level comply with 
+security,implement security measures ensure electronically transmitted electronic protected health information improperly modified without detection until disposed of
+security,implement technical security measures guard against unauthorized access electronic protected health information being transmitted over electronic communications network
+security,event system does support prelogin capabilities display banner immediately following authorization
+security,information will be encrypted in database
+security,it should be possible assign access rights all subsystems independently
+security,key management procedure secure manage encryption keys defined
+security,login openemr using your assigned username password
+security,measures in place detect unauthorized changes information
+security,measures in place prevent upload unauthorized files eg executable files
+security,measures in place prevent detect log unauthorized attempts access sensitive confidential data
+security,measures in place prevent detect log unauthorized attempts access system
+security,mids should be considered private sensitive information
+security,no invalid data shall be entered into system
+security,note openemr login case sensitive	
+security,on page displayed recommendations warnings regarding directories apache should allow outside world see as these directories contain protected health information
+security,only authorized shall access rfs system
+security,only authorized users shall have access clinical site information
+security,only authorized users shall have access students personal information
+security,only authorized users shall have access portion system interfaces with campusconnect
+security,only managers able perform search queries for reservations user
+security,only registered realtors shall be able access system
+security,only system administrator shall be able reset revoked logon account
+security,only users exist in uas system with rfs system assigned their role shall access rfs system use it
+security,only users with update access must be able initiate dispute requests
+security,only valid data shall be entered into system
+security,periodic security updates
+security,physical security protects providers patients clinic assets physical manifestation business financial health information
+security,platform level cryptography used with no custom implementations
+security,private sensitive data for example passwords logged
+security,procedures for creating changing safeguarding passwords
+security,procedures for guarding against detecting reporting malicious software
+security,procedures for monitoring login attempts reporting discrepancies
+security,program administrators nursing staff members only people shall have access clinical site details
+security,protect electronic health information created maintained certified ehr technology through implementation appropriate technical capabilities
+security,protection mechanisms in place for sensitive data sent over network
+security,remote administration channels secured eg ssl vpn
+security,remove mid from being displayed on all pages urls
+security,secrets stored securely using one way hash
+security,security decisions do rely on http header information
+security,security measures implemented comply with standards implementation specifications adopted under subpart must be reviewed modified as needed continue provision reasonable appropriate protection electronic protected health information as described at 
+security,sensitive data secrets incorporated in code
+security,sensitive data logged in clear text system
+security,sensitive data passed in query strings form fields
+security,sensitive data stored in persistent cookies
+security,sensitive data transmitted using insecure protocols such as ftp telnet tftp etc unless tunneled through authenticated encrypted connection eg vpn
+security,session identifiers passed in query strings
+security,session lifetime limited prespecified configurable duration
+security,session state protected from unauthorized access
+security,ssl used protect authentication cookies
+security,allows addition user defined messages logon screen
+security,allows secure password resets in case passwords forgotten
+security,allows users reauthenticate remotely log out active session before logging in at another location
+security,allows viewing list users logged on system in real time
+security,authenticates standalone devices before access allowed protected resources
+security,authenticates before any access allowed protected resources eg protected health information
+security,voids untrusted input file name file paths
+security,code does rely on internal system generated error handling
+security,does rely on client side validation
+security,does use parent paths data within system being accessed
+security,encrypts passwords before being stored transmitted
+security,encrypts sensitive data transmitted between clients servers using secure socket layer ssl certificates transport layer security tls other means
+security,exception handling minimizes information disclosure in case exception
+security,disallow more than one active session per signon identification
+security,ensures input validation applied whenever input received through external data interfaces
+security,ensures minimum error information returned in event authentication failure
+security,must support password complexity meets following requirements
+security,performs secure seamless logon for all third party integrated systems
+security,provides web https interface provides ssl configuration mechanism
+security,provides automatic timeout session idle for prespecified configurable duration
+security,provides integrated security managed in central accounts database
+security,provides reminder alerts users reset passwords
+security,provides secure information delivery over internet via encryption using triple des data encryption standard advanced encryption standard aes
+security,provides following password change rules for accounts
+security,provides option for multifactor authentication for users with higher security access
+security,restricts users from directly accessing database
+security,returns generic error messages client avoid disclosure sensitive information
+security,shall let existing customers log into website with their email address password in under seconds
+security,uses least privileged accounts
+security,warns before timeout prompts reenter their password
+security,temporary objects removed from system database connections closed memory released
+security,administrator has authenticated himself herself in itrust medical records system uc
+security,county standard for users days
+security,disputes application shall ensure only authorized users allowed logon application
+security,disputes application shall ensure only users with appropriate access level allowed initiate dispute requests
+security,disputes application shall manipulate view business data
+security,disputes system shall generate report details any new users have been added any changes existing users access level
+security,equipment storing phi bi should be subject physical access restrictions place server in protected locked area limit access
+security,first screen gives some general instructions ensures file directory permissions set up correctly
+security,hcp has authenticated himself herself in itrust medical records system ucuc
+security,hcp has authenticated himself herself in itrust medical records system uc
+security,hcp has authenticated himself herself in itrust medical records systemuc
+security,healthcare information management systems society himss provides risk assessment toolkit for conducting risk assessment developing compliant security plan
+security,inactivity timeout shall be configurable
+security,itrust lchp has been authenticated in itrust medical records system uc
+security,itrust lhcp patient has been authenticated in itrust medical records system uc
+security,itrust patient hcp has been authenticated in itrust medical records system uc
+security,itrust patient has authenticated himself herself in itrust medical records system uc
+security,itrust patient has been authenticated in itrust medical records system uc
+security,itrust patient lhcp administrator has authenticated himself herself in itrust medical records system ucuc
+security,itrust has authenticated himself herself in itrust medical records system uc
+security,itrust has been authenticated in itrust medical records system uc
+security,leads washing functionality will verify users authentication rights make parameter updates
+security,password displayed as clear text password masking
+security,patient has authenticated himself herself in itrust medical records system uc
+security,patient has authenticated himself herself in itrust medical records systemuc
+security,product possibly adjacent hardware software systems data shall remain uncorrupted each time malicious data input into product
+security,ensure only be accessed authorized users
+security,ensure only company employees external users with company approved ids may have product access
+security,ensure databases data corresponds data entered user
+security,free computer viruses
+security,have security
+security,information security
+security,prevent its data from incorrect data being introduced
+security,prevent input malicious data
+security,provide authentication authorization
+security,product will be able distinguish between authorized unauthorized users in all access attempts
+security,proposer shall provide adequate firewall protection in order secure personal data other confidential information users ehr from unauthorized access third parties
+security,proposer shall provide facility required host computing network environment including appropriate physical security required third party software staff support monitoring environmental conditions eg hvac port fire detection suppression moisture humidity temperature
+security,proposer shall review security notifications alerts relevant hosting platform eg notifications bugs attacks patches apply as appropriate maintain highest level defense
+security,purpose criteria to remove users privileges but maintain history in system
+security,report will be reviewed for auditing purposes
+security,safeguards shall provide level scope security less than level scope security requirements established office management budget omb in omb circular no appendix iiisecurity federal automated information systems httpwwwwhitehousegovombcircularsaahtml as well as federal information processing standard entitled minimum security requirements for federal information systems httpcsrcnistgovpublicationsfipsfipsfipsfinalmarchpdf special publication recommended security controls for federal information systems httpcsrcnistgov publicationsnistpubsrevsprevfinal
+security,software tester authenticates himself herself in itrust medical records system uc
+security,software used install update system independent mode method conveyance shall be certified free malevolent software malware
+security,streaming server will have antivirus software prevent infection malicious viruses
+security,design assumes input malicious
+security,must be able associate permissions with using one more following access controls user based access rights assigned each role based users grouped access rights assigned these groups context based role based with additional access rights assigned restricted based on context transaction such as time  day workstation location emergency mode etc support removal users privileges without deleting from system
+security,provides error handling processes
+security,authenticate before any access protected resources eg phi allowed including connected network eg mobile devices
+security,automatically notify users force them change passwords on predefined frequency
+security,be built such as secure as possible from malicious interference
+security,enable multiple simultaneous users each with own exclusive authentication
+security,enforce limit configurable consecutive invalid access attempts user
+security,enforce most restrictive set rights privileges accesses needed users groups eg system administration clerical nurse doctor etc processes acting on behalf users for performance specified tasks
+security,granularly control access rights all major subsystems
+security,have basic data integrity checking reduce possibility incorrect invalid data being introduced
+security,for security module be maintained inhouse system administrator
+security,assign application access rights across entire suite applications at single point entry
+security,display last date time logged onto system at time logon
+security,support bit ssl encryption higher between client browser application tier for any all modules submodules at organization discretion
+security,support biometrics plus passwords eg fingerprint scan plus password
+security,support web based client access other internet based client access technologies with appropriate security access controls
+security,include documentation available customer stating whether there known issues conflicts with security services in at least following service areas antivirus intrusion detection malware eradication host based firewall resolution conflict eg most systems should note full virus scanning should be done outside peak usage times should exclude databases
+security,include documentation available customer provides guidelines for configuration use security controls necessary support secure reliable operation system including but limited creation modification deactivation accounts management roles reset passwords configuration password constraints audit logs
+security,include documentation itemizes services eg php web services network protocols ports eg hl http ftp necessary for proper operation servicing system including justification need for service protocol
+security,maintain consistent security
+security,only be accessed authorized corporate community grants ccr employees
+security,prevent malicious attacks including denial service
+security,protect against further possibly malicious authentication attempts using appropriate mechanism eg locks account node until released administrator locks account node for configurable time period delays next login prompt according configurable delay algorithm
+security,provide ability use single sign on for all modules with security configured for each module
+security,provide automatic logout users there has been no activity for predefined period maintaining transaction integrity
+security,provide expiration dates for passwords
+security,provide lockout capability after predefined number unsuccessful sign on attempts
+security,provide only limited feedback information during authentication
+security,support ensuring authenticity remote nodes mutual node authentication communicating protected health information phi over internet other known open networks using open protocol eg tls ssl ipsec xml sig s mime
+security,support protection confidentiality all protected health information phi delivered over internet other known open networks via encryption using triple des advanced encryption standard aes open protocol such as tls ssl ipsec xml encryptions s mime their successors
+security,use organizations standard virus protection software help monitor threats itself
+security,upon detection inactivity interactive session shall prevent further viewing access system session terminating session initiating session lock remains in effect until reestablishes access using appropriate identification authentication procedures
+security,prior access any phi shall display configurable warning login banner eg system should only be accessed authorized users
+security,storing phi on any device intended be portable removable eg thumb drives cd rom pda notebook shall support use standards based encrypted format using triple des advanced encryption standard aes their successors
+security,time for passwords be changed predefined as per users role access level
+security,agrees within organization organizations its agents access data covered agreement shall be limited minimum amount data minimum number individuals necessary achieve purpose stated in section ie individuals access data will be on need know basis
+security,agrees establish appropriate administrative technical physical safeguards protect confidentiality data prevent unauthorized use access it
+security,may try three times
+security,validation approach constrain reject then sanitize input
+security,wcs system shall allow automatic logins any user
+security,web server always asserts character set locale country code such as en_us
+security,web enabled portions application shall meet state art internet standards for graphics design for speed reliability security for dynamic content interaction
+security,website shall prevent its data from being corrupted incorrect data entered in
+security,website shall protect itself from intentional abuse notify administrator at all occurrences
+security,information may be used healthcare facility properly configure their network defenses firewalls routers
+security,begin using openemr navigate your servers installation directory log in using your assigned username password
+security,begin log in with your designated username password
+security,traditional security matters involve locks points entry lighting cameras fire precautions power outage procedures water protection disaster recovery
+security,user accounts service accounts used for configuration management have only minimum privileges required for task
+security,users must be authenticated using their ibm intranet name password
+security,users will have direct access data files databases
+security,vendor may self certify compliance with standard through procedures make use commercial malware scanning software
+security,web sites partitioned into unrestricted restricted areas using separate folders
+security,answer security question typed in answer should appear on screen similar how password normally appears answer should be confirmed patient personal health representative before saved
+security,passwords used allow authenticated change their password consistent with password strength rules sc
+security,passwords used prevent reuse passwords previously used within specific configurable timeframe ie within last x days etc eg last days shall prevent reuse certain configurable number most recently used passwords eg last passwords
+security,passwords used provide administrative function resets passwords
+security,passwords used support password strength rules allow for minimum number characters inclusion alphanumeric complexity
+security,passwords used use either standardsbased encryption eg des aes standardsbased hashing eg sha store transport passwords
+security,passwords used accounts have been reset administrator shall require change password at next successful logon
+security,will then be required login again with your new password
